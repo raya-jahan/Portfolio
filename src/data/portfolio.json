@@ -1,0 +1,35 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/AI_Agent.png", 
+            "title": "AI Agent",
+            "description": "JavaScript, TypeScript, HTML, CSS",
+            "url": "https://github.com/raya-jahan/Movable_AI_Agent_Hack_YSU_2025"
+        },
+        {
+            "cover": "/portfolio/burger-2.png",
+            "title": "Flutter Food Delivery App", 
+            "description": "Dart, Flutter, Firebase, HTML", 
+            "url": "https://github.com/raya-jahan/Food-App"
+        },
+        {
+            "cover": "/portfolio/multiclass.png", 
+            "title": "Multiclass Image Similarity Finding AI", 
+            "description": "Python, Jupyter Notebook, Qdrant vector database, RestNet-50", 
+            "url": "https://github.com/raya-jahan/Multiclass_Image_Similarity_Finding_AI"
+        },
+        {
+            "cover": "/portfolio/Book-1.png", 
+            "title": "Book Ordering Website", 
+            "description": "Javascript, HTML, JavaServer, Handlebars", 
+            "url": "https://github.com/raya-jahan/Online_Book_Ordering_System"
+        },
+        {
+            "cover": "/portfolio/transfer_learning 3.png", 
+            "title": "Transfer Learning-Based Image Classifier", 
+            "description": "Python, Sci-kit Learn, Pandas, PyTorch, Jupyter Notebook", 
+            "url": "https://github.com/raya-jahan/Transfer_Learning_Image_Classifier"
+        }
+        
+        ]
+    }
