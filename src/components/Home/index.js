@@ -9,8 +9,8 @@ import Logo from './Logo';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const nameArray = "aya, ".split("");
-    const jobArray = "a software engineer.".split("");
+    const nameArray = "aya. ".split("");
+    const jobArray = "".split("");
 
     useEffect(() => {
         const timerId = setTimeout(() => {
@@ -27,8 +27,8 @@ const Home = () => {
         <div className = "container home-page">
             <div className="text-zone">
                 <h1>
-                <span className = {`${letterClass} _8`}>H</span>
-                <span className = {`${letterClass} _9`}>i</span>
+                <span className = {`${letterClass} _8`}>Greetings,</span>
+                <span className = {`${letterClass} _9`}></span>
                 <br /> 
                 <span className = {`${letterClass} _10`}>I</span>
                 <span className = {`${letterClass} _11`}>'m</span>
@@ -37,8 +37,11 @@ const Home = () => {
                 <br /> 
                 <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={15} /> 
                 </h1>
-                <h2>Computer Science, 2025 at Youngstown State University</h2>
-                <Link to="/contact" className="flat-button">CONTACT ME</Link>
+                <h2>I am interested in Quantum computing and Reinforcement learning related research, 
+                  I love to teach and
+                  I am passionate about learning new concepts through hands-on projects.
+                  <br/>Computer Science, 2025 at Youngstown State University</h2>
+                <Link to="/contact" className="flat-button">CONTACT</Link>
             </div>
             <Logo className="Home"/>
         </div>
