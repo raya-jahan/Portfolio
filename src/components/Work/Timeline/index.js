@@ -9,7 +9,7 @@ const Timeline = () => {
       description: [
         'Been awarded a competitive Student Grant worth <b>$5000</b> from YSU to do research in <b>Quantum Computing</b> and <b>Quantum Reinforcement Learning</b> under the guidance of Dr. Feng George Yu.',
         'My research paper <b>“Quantum Bootstrap Sampling for Approximate Query Processing Error Assessment”</b>, has been accepted for publication at the International Conference on Database and Expert Systems Applications (DEXA) 2025. Implemented circuits using IBM Qiskit and Ohio Supercomputer Jupyter Notebook.',
-        'Additionally, conducting research on Quantum reinforcement learning for adaptive traffic signal control in uncertain environments.'
+        'Additionally, conducting research on Quantum reinforcement learning-based controller for bootstrap sampling of large-scale databases.'
         
       ],
       expanded: false,

@@ -7,8 +7,8 @@ const Timeline = () => {
       date: 'January 2025 - Present',
       title: 'Quantum Bootstrap Sampling for Approximate Query Processing Error Assessment',
       description: [
-        'This is my second research paper which has been accepted for publication at the International Conference on Database and Expert Systems Applications (DEXA) 2025 and is currently in the process of being published.',
-        'I co-authored with Dr. Feng Yu, where we designed a QBS framework to accelerate error assessment in Approximate Query Processing by generating quantum-based resamples using QRAM and Quantum Counters.',
+        'My second research paper has been accepted for publication at the International Conference on Database and Expert Systems Applications (DEXA) 2025.',
+        'I co-authored with Dr. Feng Yu, designing a QBS framework to accelerate error assessment in Approximate Query Processing by generating quantum-based resamples using QRAM, Quantum Counters and ripple-carry adder.',
         'Bootstrap sampling enables error estimation without the need to know the population distribution but requires many computationally intensive resamples with replacement.',
         'We implemented our circuits using IBM Qiskit and Ohio Supercomputer Jupyter Notebook.'
       ],
@@ -18,8 +18,7 @@ const Timeline = () => {
       date: 'January 2022 - January 2023',
       title: 'A Quantum Algorithm for Pairwise Sequence Alignment',
       description: [
-        'My first paper link: https://dspace.bracu.ac.bd/xmlui/handle/10361/20228.',
-        'We have designed a Quantum circuit which explores mapping DNA sequences and finding the optimal alignments in a faster and efficient way with Grover’s search algorithm through a 2D graph.',
+        'Designed a Quantum circuit which explores mapping DNA sequences and finding the optimal alignments in a faster and efficient way with Grover’s search algorithm through a 2D graph.',
         'The transition which converges to a fixed path on the graph is based on a proposed oracle for profit calculation. In order to generate a graph and create random paths through it, we searched and analyzed several Quantum Walk Algorithms to align sequences in contrast to classical random walk search algorithms',
         'The intent here is to provide a comprehensive elaboration of how path searching algorithm works on DNA sequences according to a quantum algorithm.'
       ],
