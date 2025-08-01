@@ -18,6 +18,7 @@ const Timeline = () => {
       date: 'January 2022 - January 2023',
       title: 'A Quantum Algorithm for Pairwise Sequence Alignment',
       description: [
+        'Link: https://dspace.bracu.ac.bd/xmlui/handle/10361/20228',
         'Designed a Quantum circuit which explores mapping DNA sequences and finding the optimal alignments in a faster and efficient way with Grover’s search algorithm through a 2D graph.',
         'The transition which converges to a fixed path on the graph is based on a proposed oracle for profit calculation. In order to generate a graph and create random paths through it, we searched and analyzed several Quantum Walk Algorithms to align sequences in contrast to classical random walk search algorithms',
         'The intent here is to provide a comprehensive elaboration of how path searching algorithm works on DNA sequences according to a quantum algorithm.'

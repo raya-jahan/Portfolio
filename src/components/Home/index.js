@@ -37,7 +37,7 @@ const Home = () => {
                 <br /> 
                 <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={15} /> 
                 </h1>
-                <h2>I am interested in Quantum computing and Reinforcement learning related research, 
+                <h2>I am interested in Quantum computing and Deep Reinforcement learning related research, 
                   I love to teach and
                   I am passionate about learning new concepts through hands-on projects.
                   <br/>Computer Science, 2025 at Youngstown State University</h2>
