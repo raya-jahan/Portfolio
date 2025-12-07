@@ -5,7 +5,7 @@ const Timeline = () => {
   const [events, setEvents] = useState([
     {
       date: 'January 2025 - Present',
-      title: 'Quantum Bootstrap Sampling for Approximate Query Processing Error Assessment',
+      title: 'Quantum Bootstrap Sampling for faster Approximate Query Processing Error Assessment',
       description: [
         'Link: https://link.springer.com/chapter/10.1007/978-3-032-02049-9_14',
         'My second research paper has been published at the International Conference on Database and Expert Systems Applications (DEXA) 2025.',

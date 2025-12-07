@@ -5,7 +5,7 @@ const Timeline = () => {
   const [events, setEvents] = useState([
     {
       date: 'May - August 2025',
-      title: 'Research Assistant Intern, Research Services and Graduate Studies, Youngstown State University',
+      title: 'Graduate Research Assistant, Youngstown State University',
       description: [
         'Been awarded a competitive Research Grant worth <b>$5000</b> from YSU to do research in <b>Quantum Algorithms and Systems</b> under the guidance of Dr. Feng George Yu.',
         'My research paper <b>“Quantum Bootstrap Sampling for faster Approximate Query Processing Error Assessment”</b>, has been published at the International Conference on Database and Expert Systems Applications (DEXA) 2025. Implemented circuits using IBM Qiskit on Ohio Supercomputer Jupyter Notebook.',
