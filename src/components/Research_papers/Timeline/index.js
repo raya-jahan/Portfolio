@@ -7,10 +7,11 @@ const Timeline = () => {
       date: 'January 2025 - Present',
       title: 'Quantum Bootstrap Sampling for Approximate Query Processing Error Assessment',
       description: [
-        'My second research paper has been accepted for publication at the International Conference on Database and Expert Systems Applications (DEXA) 2025.',
-        'I co-authored with Dr. Feng Yu, designing a QBS framework to accelerate error assessment in Approximate Query Processing by generating quantum-based resamples using QRAM, Quantum Counters and ripple-carry adder.',
-        'Bootstrap sampling enables error estimation without the need to know the population distribution but requires many computationally intensive resamples with replacement.',
-        'We implemented our circuits using IBM Qiskit and Ohio Supercomputer Jupyter Notebook.'
+        'Link: https://link.springer.com/chapter/10.1007/978-3-032-02049-9_14',
+        'My second research paper has been published at the International Conference on Database and Expert Systems Applications (DEXA) 2025.',
+        'I co-authored with Dr. Feng Yu, designing a QBS framework to accelerate error assessment and compute confidence intervals in Approximate Query Processing by generating superposition-based resamples using QRAM, Quantum Counter and ripple-carry adder.',
+        'Bootstrap sampling enables error estimation without the need to know the population distribution but requires many random samples with replacement which is computationally intensive.',
+        'We implemented our circuits using IBM Qiskit on Ohio Supercomputer cluster.'
       ],
       expanded: false,
     },

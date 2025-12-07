@@ -7,19 +7,20 @@ const Timeline = () => {
       date: 'May - August 2025',
       title: 'Research Assistant Intern, Research Services and Graduate Studies, Youngstown State University',
       description: [
-        'Been awarded a competitive Student Grant worth <b>$5000</b> from YSU to do research in <b>Quantum Computing</b> and <b>Quantum Reinforcement Learning</b> under the guidance of Dr. Feng George Yu.',
-        'My research paper <b>“Quantum Bootstrap Sampling for faster Approximate Query Processing Error Assessment”</b>, has been accepted for publication at the International Conference on Database and Expert Systems Applications (DEXA) 2025. Implemented circuits using IBM Qiskit and Ohio Supercomputer Jupyter Notebook.',
-        'Additionally, conducting research on Quantum reinforcement learning-based controller for bootstrap sampling of large-scale databases.'
-        
+        'Been awarded a competitive Research Grant worth <b>$5000</b> from YSU to do research in <b>Quantum Algorithms and Systems</b> under the guidance of Dr. Feng George Yu.',
+        'My research paper <b>“Quantum Bootstrap Sampling for faster Approximate Query Processing Error Assessment”</b>, has been published at the International Conference on Database and Expert Systems Applications (DEXA) 2025. Implemented circuits using IBM Qiskit on Ohio Supercomputer Jupyter Notebook.',
+        'The extension of this paper, “A Quantum-enabled Error assessment framework for AQP” is under review in the IEEE Transactions on Information Theory Journal',
+        'Currently, executing research on Quantum Double Deep Q Network for agent-learning games, integrating a variational quantum circuit module to produce prediction Q-values that guide agents exploration',
+        'Conducted Deep Reinforcement Learning classes for freshman students at YSU'
       ],
       expanded: false,
     },
     {
       date: 'February 2024 - December 2025',
-      title: 'Graduate Assistant, STEM Workforce Education & Innovation, Youngstown State University',
+      title: 'Graduate Teaching Assistant, STEM Workforce Education & Innovation, Youngstown State University',
       description: [
         'Designed a CRM in <b>Salesforce</b> to track <b>1,400+</b> user interactions for credit and non-credit courses',
-        'Achieved certifications in <b>WIA’s 5G Readiness Cellular program</b> and ongoing <b>Cisco Networking</b> course. Trained <b>160+</b> students teaching Networking courses through in-person and online classes offered by <b>Wireless Infrastructure Association</b>, contributing to <b>27</b> students securing jobs during my tenure as an instructor',
+        'Achieved certifications in <b>WIA’s 5G Readiness Cellular program</b> and <b>Cisco Networking</b> course. Trained <b>160+</b> students teaching Networking courses through in-person and online classes offered by <b>Wireless Infrastructure Association</b>, contributing to <b>27</b> students securing jobs during my tenure as an instructor',
         'Collaborated with program managers to organize over <b>3,000</b> student records in YSU’s education platform <b>Blackboard</b> and <b>Excel</b>'
       ],
       expanded: false,
@@ -30,7 +31,7 @@ const Timeline = () => {
       description: [
         'Built an <b>AI image generation web app</b> using <b>DALL-E APIs</b> and <b>MERN</b> stack, delivered fully functional solution within one week',
         'Integrated real-time bidirectional <b>chat</b> system using <b>WebSocket (Socket.IO)</b>, following SDLC principles',
-        'Developed gaming features and trivia questions for <b>300+</b> MyBL app active users using <b>Framer, Canva, Figma, and REST API</b>',
+        'Developed gaming features and trivia questions for <b>300+</b> MyBL app active users using <b>Framer, Canva, and Figma</b>',
         'Authored <b>technical documentation</b> for Paywall Plus, an intermediary-integrated payment solution, streamlining payments across Toffee and BL Labs for new onboarding integration partners',
         'Executed complex SQL queries to validate data integrity across Oracle and MySQL databases',
         'Coordinated with the DevOps team to deploy Java projects from prototype-to-production, configuring external APIs using Python to automate JSON report generation that optimized operational workflows.'
@@ -41,8 +42,8 @@ const Timeline = () => {
       date: 'August 2020 - December 2022',
       title: 'Teaching Assistant, BRAC University',
       description: [
-        'Taught <b>PHY112 (Principles of Physics II)</b> course',
-        'Graded the quizzes and assignment papers, and assisted faculty supervisor in organizing and recording grades in <b>Excel</b>, ensuring timely submission',
+        'Taught <b>PHY112 (Principles of Physics II)</b> course covering topics like electromagnetic waves, electric and magnetic fields, Maxwell’s equations, Newton’s law of motion, and Thermodynamics.',
+        'Graded the quizzes and assignment papers, and assisted faculty supervisor in organizing and recording grades in <b>Excel</b> sheet, ensuring timely submission',
         'Provided one-on-one consultation hours helping with homework, quiz solutions, and exam planning strategies'
       ],
       expanded: false,
