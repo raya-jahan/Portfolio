@@ -4,7 +4,7 @@ import './index.scss';
 const Timeline = () => {
   const [events, setEvents] = useState([
     {
-      date: 'May - August 2025',
+      date: 'May 2025 - August 2025',
       title: 'Graduate Research Assistant, Youngstown State University',
       description: [
         'Been awarded a competitive Research Grant worth <b>$5000</b> from YSU to do research in <b>Quantum Algorithms and Systems</b> under the guidance of Dr. Feng George Yu.',
@@ -16,12 +16,21 @@ const Timeline = () => {
       expanded: false,
     },
     {
-      date: 'February 2024 - December 2025',
+      date: 'May 2024 - December 2025',
       title: 'Graduate Teaching Assistant, STEM Workforce Education & Innovation, Youngstown State University',
       description: [
         'Designed a CRM in <b>Salesforce</b> to track <b>1,400+</b> user interactions for credit and non-credit courses',
         'Achieved certifications in <b>WIA’s 5G Readiness Cellular program</b> and <b>Cisco Networking</b> course. Trained <b>160+</b> students teaching Networking courses through in-person and online classes offered by <b>Wireless Infrastructure Association</b>, contributing to <b>27</b> students securing jobs during my tenure as an instructor',
         'Collaborated with program managers to organize over <b>3,000</b> student records in YSU’s education platform <b>Blackboard</b> and <b>Excel</b>'
+      ],
+      expanded: false,
+    },
+    {
+      date: 'January 2024 - April 2024',
+      title: 'Student Assistant, Centofanti School of Nursing, Youngstown State University',
+      description: [
+        'Managed and directed incoming calls to appropriate departments, assisted students with inquiries related to the ADN, BSN, and MSN programs',
+        'Supported administrative operations including student record filing, email correspondence, and mail distribution.'
       ],
       expanded: false,
     },

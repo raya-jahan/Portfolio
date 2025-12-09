@@ -11,7 +11,8 @@ const Timeline = () => {
         'My second research paper has been published at the International Conference on Database and Expert Systems Applications (DEXA) 2025.',
         'I co-authored with Dr. Feng Yu, designing a QBS framework to accelerate error assessment and compute confidence intervals in Approximate Query Processing by generating superposition-based resamples using QRAM, Quantum Counter and ripple-carry adder.',
         'Bootstrap sampling enables error estimation without the need to know the population distribution but requires many random samples with replacement which is computationally intensive.',
-        'We implemented our circuits using IBM Qiskit on Ohio Supercomputer cluster.'
+        'We implemented our circuits using IBM Qiskit on Ohio Supercomputer cluster.',
+        'The extension of this paper, “A Quantum-enabled Error assessment framework for AQP” is under review in the IEEE Transactions on Information Theory Journal.'
       ],
       expanded: false,
     },
